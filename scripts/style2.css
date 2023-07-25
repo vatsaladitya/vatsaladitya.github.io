@@ -1,0 +1,38 @@
+.head {
+	background: #331111aa;
+	display: all;
+}
+
+.header {
+	font-family: Product Sans;
+	font-size: 125%;
+	text-transform: uppercase;
+	margin-left: 20px;
+}
+
+.pricing_table {
+	color: #ffff00;
+	margin-top: 10%;
+	background-color: #ffffff88;
+}
+
+.pricing_table tr td {
+	text-align: center;
+
+}
+
+.pricing_table a {
+	text-decoration: none;
+	color: #000088;
+}
+
+.contact_table {
+	margin-top: 10%;
+	color: #000000;
+	background-color: #ffffffcc;
+}
+
+.contact_table a {
+	text-decoration: none;
+	color: #000000;
+}

@@ -1,0 +1,55 @@
+.background_image{
+			padding: 0;
+			margin: 0;
+			width: 100%;
+			height: 100vh;
+			animation: animate 30s ease-in-out infinite;
+			background-size: cover;
+		}
+
+		@keyframes animate{
+			0%, 100%{
+				background-image: url("../images/1.jpg");
+			}
+
+			10%{
+				background-image: url("../images/2.jpg");
+			}
+			
+			20%{
+				background-image: url("../images/3.jpg");
+			}
+
+			30%{
+				background-image: url("../images/4.jpg");
+			}
+
+			40%{
+				background-image: url("../images/5.jpg");
+			}
+
+			50%{
+				background-image: url("../images/6.jpg");
+			}
+			
+			60%{
+				background-image: url("../images/7.jpg");
+			}
+
+			70%{
+				background-image: url("../images/8.jpg");
+			}
+
+			80%{
+				background-image: url("../images/9.jpg");
+			}
+
+			90%{
+				background-image: url("../images/10.jpg");
+			}
+			
+		}
+
+		.container{
+
+		}
